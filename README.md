@@ -5,11 +5,11 @@ Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
 
 Socials:
 
-- <a href="https://www.linkedin.com/in/akormous/" target="_blank">LinkedIn</a>
+- [LinkedIn](https://www.linkedin.com/in/akormous)
 
-- <a href="https://www.twitter.com/akormous/" target="_blank">Twitter</a>
+- [Twitter](https://www.twitter.com/akormous)
 
-- <a href="https://www.instagram.com/akormous/" target="_blank">Instagram</a>
+- [Instagram](https://www.instagram.com/akormous)
 
 ---
 
