@@ -13,6 +13,6 @@ Socials:
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akormous&layout=compact&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akormous&layout=compact&hide=jupyter%20notebook,html&theme=vision-friendly-dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akormous&theme=vision-friendly-dark" />
 </p>
