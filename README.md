@@ -3,9 +3,11 @@
 I am Akshat Chauhan.
 Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
 
-Socials:
+<p align="center">
+  I am everywhere
+ </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akormous">
     <img width="5%" src="Resources/LinkedIn_logo.png" />
   </a>
