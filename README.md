@@ -33,7 +33,3 @@ Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akormous&layout=compact&hide=jupyter%20notebook,html&theme=dark" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akormous&theme=dark" />
 </p>
-
-<p align="center">
-    <img width="92%" src="https://activity-graph.herokuapp.com/graph?username=akormous&theme=react-dark" />
-</p>
