@@ -7,7 +7,6 @@ Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
 [akormous.netlify.app](https://akormous.netlify.app)
 
 ## Socials
-
 <p align="left">
   <a href="https://www.linkedin.com/in/akormous">
     <img width="4%" src="Resources/LinkedIn_logo.png" />
