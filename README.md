@@ -1,10 +1,10 @@
-# Hi there 👋
-
-I am Akshat Chauhan.
-Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
+# Hello visitor 👋
 
 ## My Website
-[akormous.netlify.app](https://akormous.netlify.app)
+
+<a href="https://akormous.netlify.app">
+    <img width="4%" src="Resources/Website.png" />
+</a>
 
 ## Socials
 <p align="left">
@@ -26,9 +26,3 @@ Currently working as a Software Engineer at [Amadeus](https://amadeus.com/en).
 </p>
 
 ---
-
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akormous&layout=compact&hide=jupyter%20notebook,html&theme=dark" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akormous&theme=dark" />
-</p>
