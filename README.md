@@ -1,12 +1,12 @@
-# Hello visitor 👋
+## Hello visitor 👋
 
-## My Website
+### My Website
 
 <a href="https://akormous.netlify.app">
     <img width="4%" src="Resources/Website.png" />
 </a>
 
-## Socials
+### Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/akormous">
     <img width="4%" src="Resources/LinkedIn_logo.png" />
@@ -24,5 +24,3 @@
     <img width="4%" src="Resources/Twitch_logo.png" />
   </a>
 </p>
-
----
