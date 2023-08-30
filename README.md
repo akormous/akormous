@@ -1,6 +1,7 @@
 
 <marquee><div class="iso-marquee--long iso-marquee" style="--tw:153.5ch; --ad:15s;">       <span>Web Development&emsp;•&emsp;System Design&emsp;•&emsp;AI&emsp;•&emsp;Full-Stack Development&emsp;•&emsp;Software Deployment&emsp;•&emsp;Cloud&emsp;•&emsp;Machine Learning&emsp;•&emsp;Microservices</span></div></marquee>
 
+![](./Resources/header.gif)
 ![](./Resources/cover.jpg)
 
 <div align="center">
