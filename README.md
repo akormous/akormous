@@ -1,9 +1,5 @@
-# Hola
 
-<style>
-  .iso-marquee { padding: 1.4rem 0; font-size: 8vw; overflow: hidden; background-color:#1a1a1a; } .iso-marquee--long { font-size: 1.25vw; } .iso-marquee-linkwrap a { color:#ffffff; } .iso-marquee span { display: inline-block; white-space: nowrap; color: #ffffff; width: var(--tw); text-shadow: var(--tw) 0 currentColor, calc(var(--tw) * 2) 0 currentColor, calc(var(--tw) * 3) 0 currentColor, calc(var(--tw) * 4) 0 currentColor; will-change: transform; animation: iso-marquee var(--ad) linear infinite; animation-play-state: play; } @keyframes iso-marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } } /* * on MacOs: System Preferences > * Accessibility > * Display > Reduce motion */ @media (prefers-reduced-motion: reduce) { .iso-marquee span { animation: none; text-shadow: none; width: auto; display: block; line-height: 1.5; text-align: center; white-space: normal; } }
-</style>
-<a class="iso-marquee-linkwrap" href="https://www.linkedin.com/in/akshat-code/">    <div class="iso-marquee--long iso-marquee" style="--tw:153.5ch; --ad:15s;">       <span>Web Development&emsp;•&emsp;System Design&emsp;•&emsp;AI&emsp;•&emsp;Full-Stack Developer&emsp;•&emsp;Software Deployment&emsp;•&emsp;Cloud&emsp;•&emsp;Machine Learning&emsp;•&emsp;Microservices</span>    </div> </a>
+<marquee><div class="iso-marquee--long iso-marquee" style="--tw:153.5ch; --ad:15s;">       <span>Web Development&emsp;•&emsp;System Design&emsp;•&emsp;AI&emsp;•&emsp;Full-Stack Development&emsp;•&emsp;Software Deployment&emsp;•&emsp;Cloud&emsp;•&emsp;Machine Learning&emsp;•&emsp;Microservices</span></div></marquee>
 
 ![](./Resources/cover.jpg)
 
