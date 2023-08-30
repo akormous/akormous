@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Akshat Chauhan from India.<br><br>- 🔭 I’m working as Full-Stack Software Developer at Amadeus<br>- 📚 I'm currently learning AI and Golang<br>- ⚡ In my free time I play piano or go for a run outside</p>
+<p align="left">I'm Akshat Chauhan.<br><br>- 🔭 I’m working as Full-Stack Software Developer at Amadeus<br>- 📚 I'm currently learning AI and Golang<br>- ⚡ In my free time I play piano or go for a run outside</p>
 
 ###
 
