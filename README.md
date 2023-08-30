@@ -1,6 +1,10 @@
 
 ![](./Resources/header.gif)
-![](./Resources/cover.jpg)
+<div align="center">
+<img src="https://64.media.tumblr.com/1592bbf88eb937e729de118e3a4fbc49/b74f6d174b2c67e1-7f/s640x960/8214540aa89478ce36b6edfef498fc0175df19db.gif" alt="Coder Man" width="150" />
+</div>
+<br />
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akshat-code/" target="_blank">
